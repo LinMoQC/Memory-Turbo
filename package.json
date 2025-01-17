@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "@nestjs/mapped-types": "*"
+    "@nestjs/mapped-types": "*",
+    "jose": "^5.9.6"
   },
   "name": "memory-turbo",
   "private": true,
