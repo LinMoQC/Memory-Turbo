@@ -1,0 +1,6 @@
+[submodule "apps/api"]
+	path = apps/api
+	url = https://github.com/LinMoQC/memory-turbo-api.git
+[submodule "apps/web"]
+	path = apps/web
+	url = https://github.com/LinMoQC/memory-turbo-web.git
