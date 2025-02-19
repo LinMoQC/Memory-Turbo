@@ -2,6 +2,7 @@
 export enum Roles {
     public = 1,
     admin = 2,
+    super = 3
 }
 
 // 模版状态的枚举
